@@ -1,6 +1,6 @@
 # Data Structures
-  This repository includes Data Structures projects.
-  For further informations about projects please visit Project Documentaion section.
+  - This repository includes Data Structures projects.
+  - For further informations about projects please visit Project Documentation section.
   
    # Project-1
    # Text representation with higher-order paths.
