@@ -17,7 +17,7 @@
    * This project aims that using binomial heaps to implement a priority queue in a preemptive scheduling system.  A preemptive scheduling    mechanism, shown in Fig. 1, operates as follows:
    
    
-   ![Priority Queue in a Preemptive Scheduling System](https://drive.google.com/open?id=11zespD-aFab0DwY9UaEyjbwNVvktduSb)
+   ![Priority Queue in a Preemptive Scheduling System](https://drive.google.com/file/d/11zespD-aFab0DwY9UaEyjbwNVvktduSb/view?usp=sharing)
    
    
    
